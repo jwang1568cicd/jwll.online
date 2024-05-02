@@ -6,5 +6,6 @@
   185.199.110.153
   185.199.111.153
 3. There is Github page limit:https://docs.github.com/en/pages/getting-started-with-github-pages/about-github-pages#limits-on-use-of-github-pages.
+4. Here is the github repository expected detail settings:https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/enabling-features-for-your-repository/managing-github-actions-settings-for-a-repository.  
  
 
